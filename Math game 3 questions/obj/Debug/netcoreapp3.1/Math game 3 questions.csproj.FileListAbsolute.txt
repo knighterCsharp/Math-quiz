@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\bin\Debug\netcoreapp3.1\Math game 3 questions.exe
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\bin\Debug\netcoreapp3.1\Math game 3 questions.deps.json
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\bin\Debug\netcoreapp3.1\Math game 3 questions.runtimeconfig.json
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\bin\Debug\netcoreapp3.1\Math game 3 questions.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\bin\Debug\netcoreapp3.1\Math game 3 questions.dll
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\bin\Debug\netcoreapp3.1\Math game 3 questions.pdb
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\obj\Debug\netcoreapp3.1\Math game 3 questions.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\obj\Debug\netcoreapp3.1\Math game 3 questions.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\obj\Debug\netcoreapp3.1\Math game 3 questions.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\obj\Debug\netcoreapp3.1\Math game 3 questions.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\obj\Debug\netcoreapp3.1\Math game 3 questions.dll
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\obj\Debug\netcoreapp3.1\Math game 3 questions.pdb
+C:\Users\Usuario\Desktop\CSharpProjects\Math game 3 questions\obj\Debug\netcoreapp3.1\Math game 3 questions.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Math game 3 questions/1.0.0": {
+        "runtime": {
+          "Math game 3 questions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Math game 3 questions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
